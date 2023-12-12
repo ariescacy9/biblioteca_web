@@ -1,6 +1,28 @@
 
-export const Actualidad = () => {
+const Actualidad = () => {
   return (
-    <div>Actualidad</div>
+    <div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+      <div>Actualidad</div>
+    </div>
+
   )
 }
+
+export default Actualidad

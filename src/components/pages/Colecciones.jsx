@@ -1,7 +1,23 @@
 
-
-export const colecciones = () => {
+const Colecciones = () => {
   return (
-    <div>colecciones</div>
+    <div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+      <div>colecciones</div>
+    </div>
   )
 }
+export default Colecciones

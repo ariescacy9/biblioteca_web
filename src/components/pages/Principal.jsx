@@ -1,7 +1,29 @@
 
-
-export const principal = () => {
+const Principal = () => {
   return (
-    <div>principal</div>
+    <>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+      <div>hola amiguitos jaja</div>
+    </>
   )
 }
+export default Principal

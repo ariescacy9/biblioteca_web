@@ -1,7 +1,25 @@
 
 
-export const Quienes = () => {
+const Quienes = () => {
   return (
-    <div>Quienes</div>
+    <div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+      <div>quienes</div>
+    </div>
   )
 }
+
+export default Quienes

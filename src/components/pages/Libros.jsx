@@ -1,7 +1,24 @@
 
-
-export const Libros = () => {
+const Libros = () => {
   return (
-    <div>Libros</div>
+    <div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+      <div>libros</div>
+    </div>
   )
 }
+
+export default Libros

@@ -1,7 +1,17 @@
 
-
-export const busqueda = () => {
+const Busqueda = () => {
   return (
-    <div>busqueda</div>
+    <div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+      <div>busqueda</div>
+    </div>
   )
 }
+
+export default Busqueda

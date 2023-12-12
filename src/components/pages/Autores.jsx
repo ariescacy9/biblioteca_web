@@ -1,6 +1,30 @@
 
-export const Autores = () => {
+const Autores = () => {
   return (
-    <div>Autores</div>
+    <div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+    </div>
   )
 }
+
+export default Autores
