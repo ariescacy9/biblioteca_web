@@ -4,7 +4,10 @@ const Quienes = () => {
   return (
     <div>
       <div >
-        <div className="m-4 gap-5">
+        <div className="m-4 gap-5 bg-[rgba(237,247,252,0.5)]">
+          <div className="flex justify-center">
+            <img className="opacity-50" src={logo}/>
+          </div >
           <h1 className="text-[40px] text-[#575A58] font-bold">Quiénes somos</h1>
           <p className="flex flex-row-reverse">
             <span>Estructuras Rotas Ediciones fue fundada en 
@@ -15,9 +18,6 @@ const Quienes = () => {
           <div className="flex flex-row-reverse">
             <p className="w-[50%]  text-right">De esta manera, la editorial pretende contribuir al pensamiento reflexivo de la resistencia, solidaridad y creatividad en el contexto político, social e histórico de diferentes territorios. En suma, la editorial práctica, publica y edita material literario, desde un punto de vista artístico, poético, expropiador y expansivo a nivel visual.</p>
           </div>
-            <div className="flex justify-center">
-          <img  src={logo}/>
-          </div >
         </div>     
       </div>
     </div>    
