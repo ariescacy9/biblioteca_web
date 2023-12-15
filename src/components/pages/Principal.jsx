@@ -2,7 +2,7 @@
 const Principal = () => {
   return (
     <>
-      <div>hola amiguitos jaja</div>
+      <div></div>
       <div>hola amiguitos jaja</div>
       <div>hola amiguitos jaja</div>
       <div>hola amiguitos jaja</div>

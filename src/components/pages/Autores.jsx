@@ -23,6 +23,9 @@ const Autores = () => {
       <div>autores</div>
       <div>autores</div>
       <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
+      <div>autores</div>
     </div>
   )
 }

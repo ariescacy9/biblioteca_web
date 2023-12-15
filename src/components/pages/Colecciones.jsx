@@ -1,8 +1,14 @@
 
+import Cards from "../Cards"
+
+
 const Colecciones = () => {
   return (
     <div>
-      <div>colecciones</div>
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
       <div>colecciones</div>
       <div>colecciones</div>
       <div>colecciones</div>
