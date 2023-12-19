@@ -7,7 +7,7 @@ import burgerMenu from "../assets/menu.svg"
 
 function Header() {
   return (
-    <header className="bg-white lg:flex sw:flex-col place-content-between items-center px-2 py-2 max-[639px]:flex">
+    <header className="bg-[#b5bac9] lg:flex sw:flex-col place-content-between items-center px-2 py-2 max-[639px]:flex">
       <Link to='./'>
         <div className="flex">
           <img className="h-10 w-10 rounded-full object-cover object-center" src={torre} alt="logo" />
